@@ -5,7 +5,7 @@ then build ready-to-use FiveM resources for QBCore, ESX and QBox.
 
 ## Download
 
-**[Download DMZ-Studio.zip](https://github.com/Zxc0x-Dmz/DMZ-Studio/releases/latest/download/DMZ-Studio.zip)** - Windows 10/11 64-bit, version **1.2.1**.
+**[Download DMZ-Studio.zip](https://github.com/Zxc0x-Dmz/DMZ-Studio/releases/latest/download/DMZ-Studio.zip)** - Windows 10/11 64-bit, version **1.2.2**.
 
 Extract it, open the `DMZ-Studio` folder and run **`DMZ-Studio.exe`**. No install needed.
 If Windows shows "Windows protected your PC", click **More info -> Run anyway**.

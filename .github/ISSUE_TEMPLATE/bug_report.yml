@@ -1,0 +1,52 @@
+name: Report a bug
+description: Something in DMZ Studio doesn't work as it should
+title: "Bug: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Sorry about that! The more you tell us, the faster it gets fixed. Don't post your license key.
+  - type: input
+    id: version
+    attributes:
+      label: DMZ Studio version
+      description: Right-click DMZ-Studio.exe -> Properties -> Details -> Product version.
+      placeholder: "1.2.2"
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you expect, and what happened instead? Copy any error message.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to make it happen
+      placeholder: |
+        1. Open ...
+        2. Click ...
+        3. ...
+    validations:
+      required: true
+  - type: input
+    id: garment
+    attributes:
+      label: Which garment / file?
+      description: e.g. a jbib .ydd from a pack, a grzyClothTool project, a vehicle .yft.
+  - type: dropdown
+    id: os
+    attributes:
+      label: Windows
+      options:
+        - Windows 11
+        - Windows 10
+        - Other
+  - type: textarea
+    id: shots
+    attributes:
+      label: Screenshots
+      description: Drag pictures here if they help.

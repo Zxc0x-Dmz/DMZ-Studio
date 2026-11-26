@@ -1,0 +1,43 @@
+name: Get Premium
+description: Ask for a DMZ Studio Premium license key
+title: "Premium: "
+labels: ["premium"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for choosing DMZ Studio Premium! Fill this in and DMZ will contact you on Discord with payment details
+        and your license key. **Never post a license key here** - keys are sent to you privately.
+  - type: input
+    id: discord
+    attributes:
+      label: Your Discord name
+      description: Where DMZ can reach you.
+      placeholder: yourname
+    validations:
+      required: true
+  - type: input
+    id: machine
+    attributes:
+      label: Machine ID
+      description: In DMZ Studio click the FREE badge at the top, then Copy next to your Machine ID.
+      placeholder: ABCD-EFGH-JKLM-NPQR-STUV
+    validations:
+      required: true
+  - type: dropdown
+    id: plan
+    attributes:
+      label: Plan
+      options:
+        - 1 day
+        - 1 week
+        - 1 month
+        - 3 months
+        - 1 year
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else?
+      description: Optional - e.g. renewing an old license, or a new PC.

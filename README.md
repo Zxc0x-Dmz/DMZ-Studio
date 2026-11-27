@@ -27,7 +27,7 @@
 
 ## Download
 
-**[Download DMZ-Studio.zip](https://github.com/Zxc0x-Dmz/DMZ-Studio/releases/latest/download/DMZ-Studio.zip)** - Windows 10/11 64-bit, version **1.2.4**.
+**[Download DMZ-Studio.zip](https://github.com/Zxc0x-Dmz/DMZ-Studio/releases/latest/download/DMZ-Studio.zip)** - Windows 10/11 64-bit, version **1.2.5**.
 No installer and nothing else to install. See [what's new](https://github.com/Zxc0x-Dmz/DMZ-Studio/releases).
 
 ## Features
@@ -91,6 +91,17 @@ from a web link** that admins change in game with `/banner`.
 </td>
 </tr>
 <tr>
+<td colspan="2" valign="top">
+
+### 📸 Photo Studio - shop pictures without the game
+A picture of **every garment, car or MLO object** in a folder, straight from the files - no screenshots in game.
+Clothes are worn by the GTA V body (hair and hats on the head), cars get the paint colour you pick and are named by
+spawn name for dealerships. See-through background and tiny **WebP** files (a few KB each), named by file or by
+in-game number (like uz_AutoShot).
+
+</td>
+</tr>
+<tr>
 <td valign="top">
 
 ### 🧵 Works with what you have
@@ -150,6 +161,7 @@ real GTA V body.
 | Same design for the other gender | - | ✅ |
 | MLO & Banners: browse signs and save them as PNG | ✅ | ✅ |
 | MLO & Banners: replace pictures, online banners | - | ✅ |
+| Photo Studio: pictures of every garment, car, MLO object | - | ✅ |
 
 Premium is available for **1 day, 1 week, 1 month, 3 months or 1 year**. A license works on one PC.
 
@@ -220,6 +232,7 @@ Sharing DMZ Studio? Use the logo and posters:
 [story 1080×1920](assets/posters/dmz-studio-story-1080x1920.png) ·
 [wide 1920×1080](assets/posters/dmz-studio-wide-1920x1080.png) ·
 [all features](assets/posters/dmz-studio-features-1080x1350.png) ·
+[Photo Studio](assets/posters/dmz-studio-photo-1080x1350.png) ·
 [MLO & Banners](assets/posters/dmz-studio-mlo-1080x1350.png)
 
 ---

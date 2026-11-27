@@ -27,7 +27,7 @@
 
 ## Download
 
-**[Download DMZ-Studio.zip](https://github.com/Zxc0x-Dmz/DMZ-Studio/releases/latest/download/DMZ-Studio.zip)** - Windows 10/11 64-bit, version **1.2.5**.
+**[Download DMZ-Studio.zip](https://github.com/Zxc0x-Dmz/DMZ-Studio/releases/latest/download/DMZ-Studio.zip)** - Windows 10/11 64-bit, version **1.2.6**.
 No installer and nothing else to install. See [what's new](https://github.com/Zxc0x-Dmz/DMZ-Studio/releases).
 
 ## Features
@@ -60,7 +60,8 @@ thumbnails, blend modes, lock, opacity, copy and paste.
 
 ### 🔤 Text, patterns and decals
 Double-click to type - every Windows font plus your own `.ttf` / `.otf`. Base patterns: camo, carbon fibre, marble,
-mosaic, hexagon, halftone, stripes and more. Drag PNG decals straight onto the body.
+mosaic, hexagon, halftone, stripes and more - plus 8 carbon styles for cars (twill, herringbone, forged, spread tow,
+honeycomb, kevlar hybrid, glossy). Drag PNG decals straight onto the body.
 
 </td>
 </tr>
@@ -76,7 +77,8 @@ texture.
 
 ### 📦 Pack Builder
 Turn your garments into a ready-to-use FiveM clothing resource (`.ymt` / `.meta`) or vehicle resource, plus a texture
-optimizer that keeps your server light. Over 128 items in a slot? It splits the pack for you.
+optimizer that keeps your server light. Over 128 items in a slot? It splits the pack for you. Edited something already
+in your pack? **Save back to server** writes it straight into its own files - no rebuild, originals backed up.
 
 </td>
 </tr>
@@ -162,6 +164,7 @@ real GTA V body.
 | MLO & Banners: browse signs and save them as PNG | ✅ | ✅ |
 | MLO & Banners: replace pictures, online banners | - | ✅ |
 | Photo Studio: pictures of every garment, car, MLO object | - | ✅ |
+| Save back to server (straight into your pack's files) | - | ✅ |
 
 Premium is available for **1 day, 1 week, 1 month, 3 months or 1 year**. A license works on one PC.
 

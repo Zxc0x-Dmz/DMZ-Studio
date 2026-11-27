@@ -12,7 +12,7 @@ body:
     attributes:
       label: DMZ Studio version
       description: Right-click DMZ-Studio.exe -> Properties -> Details -> Product version.
-      placeholder: "1.2.3"
+      placeholder: "1.2.4"
     validations:
       required: true
   - type: textarea

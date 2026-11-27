@@ -27,7 +27,7 @@
 
 ## Download
 
-**[Download DMZ-Studio.zip](https://github.com/Zxc0x-Dmz/DMZ-Studio/releases/latest/download/DMZ-Studio.zip)** - Windows 10/11 64-bit, version **1.2.3**.
+**[Download DMZ-Studio.zip](https://github.com/Zxc0x-Dmz/DMZ-Studio/releases/latest/download/DMZ-Studio.zip)** - Windows 10/11 64-bit, version **1.2.4**.
 No installer and nothing else to install. See [what's new](https://github.com/Zxc0x-Dmz/DMZ-Studio/releases).
 
 ## Features
@@ -76,7 +76,17 @@ texture.
 
 ### 📦 Pack Builder
 Turn your garments into a ready-to-use FiveM clothing resource (`.ymt` / `.meta`) or vehicle resource, plus a texture
-optimizer that keeps your server light.
+optimizer that keeps your server light. Over 128 items in a slot? It splits the pack for you.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🪧 MLO & Banners - no OpenIV
+Open any MLO (mechanic shop, club, police station...) and see every sign, poster and logo. Drop your own picture on it
+and it's saved in the MLO - size and quality kept, original backed up. Or make a sign show a **picture, GIF or video
+from a web link** that admins change in game with `/banner`.
 
 </td>
 </tr>
@@ -138,6 +148,8 @@ real GTA V body.
 | Texture optimizer | analyze | ✅ |
 | Remove patch | - | ✅ |
 | Same design for the other gender | - | ✅ |
+| MLO & Banners: browse signs and save them as PNG | ✅ | ✅ |
+| MLO & Banners: replace pictures, online banners | - | ✅ |
 
 Premium is available for **1 day, 1 week, 1 month, 3 months or 1 year**. A license works on one PC.
 
@@ -206,7 +218,9 @@ Sharing DMZ Studio? Use the logo and posters:
 [logo](assets/logo.png) · [app icon](assets/icon.png) · [banner 1280×640](assets/banner.png) ·
 [feed post 1080×1350](assets/posters/dmz-studio-feed-1080x1350.png) ·
 [story 1080×1920](assets/posters/dmz-studio-story-1080x1920.png) ·
-[wide 1920×1080](assets/posters/dmz-studio-wide-1920x1080.png)
+[wide 1920×1080](assets/posters/dmz-studio-wide-1920x1080.png) ·
+[all features](assets/posters/dmz-studio-features-1080x1350.png) ·
+[MLO & Banners](assets/posters/dmz-studio-mlo-1080x1350.png)
 
 ---
 

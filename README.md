@@ -27,7 +27,7 @@
 
 ## Download
 
-**[Download DMZ-Studio.zip](https://github.com/Zxc0x-Dmz/DMZ-Studio/releases/latest/download/DMZ-Studio.zip)** - Windows 10/11 64-bit, version **1.2.7**.
+**[Download DMZ-Studio.zip](https://github.com/Zxc0x-Dmz/DMZ-Studio/releases/latest/download/DMZ-Studio.zip)** - Windows 10/11 64-bit, version **1.2.8**.
 No installer and nothing else to install. See [what's new](https://github.com/Zxc0x-Dmz/DMZ-Studio/releases).
 
 ## Features
@@ -80,6 +80,8 @@ Turn your garments into a ready-to-use FiveM clothing resource (`.ymt` / `.meta`
 optimizer that keeps your server light. Over 128 items in a slot? It splits the pack for you. Edited something already
 in your pack? **Save back to server** writes it straight into its own files - no rebuild, originals backed up. Cars:
 design the **livery** or the **windows**, **replace stickers** in one go, or swap any texture like OpenIV.
+**Car Studio**: debadge, stickers on any window, swap or paint the mags, brighter / further lights, engine sound,
+handling, window tint and armour.
 
 </td>
 </tr>

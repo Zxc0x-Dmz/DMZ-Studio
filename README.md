@@ -27,7 +27,7 @@
 
 ## Download
 
-**[Download DMZ-Studio.zip](https://github.com/Zxc0x-Dmz/DMZ-Studio/releases/latest/download/DMZ-Studio.zip)** - Windows 10/11 64-bit, version **1.2.6**.
+**[Download DMZ-Studio.zip](https://github.com/Zxc0x-Dmz/DMZ-Studio/releases/latest/download/DMZ-Studio.zip)** - Windows 10/11 64-bit, version **1.2.7**.
 No installer and nothing else to install. See [what's new](https://github.com/Zxc0x-Dmz/DMZ-Studio/releases).
 
 ## Features
@@ -61,7 +61,7 @@ thumbnails, blend modes, lock, opacity, copy and paste.
 ### 🔤 Text, patterns and decals
 Double-click to type - every Windows font plus your own `.ttf` / `.otf`. Base patterns: camo, carbon fibre, marble,
 mosaic, hexagon, halftone, stripes and more - plus 8 carbon styles for cars (twill, herringbone, forged, spread tow,
-honeycomb, kevlar hybrid, glossy). Drag PNG decals straight onto the body.
+honeycomb, kevlar hybrid, glossy). Drag PNG decals straight onto the body and **warp** them (Arc, Circle, Flag, Wave...).
 
 </td>
 </tr>
@@ -78,7 +78,8 @@ texture.
 ### 📦 Pack Builder
 Turn your garments into a ready-to-use FiveM clothing resource (`.ymt` / `.meta`) or vehicle resource, plus a texture
 optimizer that keeps your server light. Over 128 items in a slot? It splits the pack for you. Edited something already
-in your pack? **Save back to server** writes it straight into its own files - no rebuild, originals backed up.
+in your pack? **Save back to server** writes it straight into its own files - no rebuild, originals backed up. Cars:
+design the **livery** or the **windows**, **replace stickers** in one go, or swap any texture like OpenIV.
 
 </td>
 </tr>
